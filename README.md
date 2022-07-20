@@ -29,3 +29,6 @@ you run it by typing node index.js
 jennycoranguez
 lunajennykiara@gmail.com
 
+Link to video walkthrough
+
+https://drive.google.com/file/d/1rsaR98rJYUeYFOKdQZgxVEh9h63k_iBw/view
